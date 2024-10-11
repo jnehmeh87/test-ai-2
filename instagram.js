@@ -24,4 +24,6 @@ async function displayInstagramPhotos() {
     });
 }
 
-document.addEventListener('DOMContentLoaded', displayInstagramPhotos);
+document.addEventListener('DOMContentLoaded', displayInstagramPhotos);git add .
+git commit -m "Update CSP to allow Instagram API"
+git push origin master
