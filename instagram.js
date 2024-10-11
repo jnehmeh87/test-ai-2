@@ -1,5 +1,5 @@
-const accessToken = '915132a7824c04e041a2432af4019fda';
-const userId = '496816116694500';
+const accessToken = 'IGQWRQY3lHSzJPUnFoRWVZAcmZA1Wk5yY21yaTV0a3RZAbFQwV25qd1BHSWlLZAFBNejE2QktBWlIxWXctdmh2dWd4aHdrWjJCYVlrR0dqWUEzT2t5OWx3bHFLV1JPejJ2bkhiQTlWeTI3dGZASR1UxNFpUbk1YbFJUZA1kZD'; // Replace with your actual long-lived access token
+const userId = '496816116694500'; // Replace with your actual user ID
 const limit = 12;
 
 async function fetchInstagramPhotos() {
